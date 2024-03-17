@@ -1,0 +1,14 @@
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\bin\Debug\net8.0\method-homework.exe
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\bin\Debug\net8.0\method-homework.deps.json
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\bin\Debug\net8.0\method-homework.runtimeconfig.json
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\bin\Debug\net8.0\method-homework.dll
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\bin\Debug\net8.0\method-homework.pdb
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\method-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\method-homework.AssemblyInfoInputs.cache
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\method-homework.AssemblyInfo.cs
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\method-homework.csproj.CoreCompileInputs.cache
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\method-homework.dll
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\refint\method-homework.dll
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\method-homework.pdb
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\method-homework.genruntimeconfig.cache
+C:\Users\Maqu\Desktop\methods-homework\method-homework\method-homework\obj\Debug\net8.0\ref\method-homework.dll

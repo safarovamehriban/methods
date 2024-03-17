@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHSfahGzWismG8ZCU5dgK0B1Pe86K1vCazDq4c8RFfjdSomvEdD/UA+2f0sYlDozWBhX3ZOpt4fWwKj+YWsqEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maqu\\Desktop\\methods-homework\\method-homework\\method-homework\\method-homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maqu\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Maqu\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Maqu\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
